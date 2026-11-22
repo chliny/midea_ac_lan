@@ -14,7 +14,7 @@
     "midealan"
   ],
   "requirements": [
-    "midea-lan==2026.11.0"
+    "midea-lan @ https://github.com/chliny/midea-lan/archive/acdd92c7510633d30646b893f8893a9aa1317056.zip"
   ],
   "version": "2026.11.0"
 }
